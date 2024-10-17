@@ -9,7 +9,7 @@ const StackNavigator = stackNavigatorFactory();
 export const MainStack = () => (
     <BaseNavigationContainer>
         <StackNavigator.Navigator
-            initialRouteName="Hello World"
+            initialRouteName="Hello World1"
             screenOptions={{
                 headerStyle: {
                     backgroundColor: "#4CAF50",
