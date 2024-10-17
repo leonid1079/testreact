@@ -22,7 +22,7 @@ export const MainStack = () => (
             }}
         >
             <StackNavigator.Screen
-                name="Hello World"
+                name="Hello World1"
                 component={ScreenOne}
             />
         </StackNavigator.Navigator>
